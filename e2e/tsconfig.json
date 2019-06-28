@@ -8,6 +8,10 @@
       "jasmine",
       "jasminewd2",
       "node"
-    ]
+
+    ],
+    "baseUrl": "./src",
+
   }
+
 }
